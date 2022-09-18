@@ -25,7 +25,6 @@ public class parsing {
         return indexAndString;
         }
         
-    
     public static void main(String [] args) {
         String exp = "(2^3 * (10 / (5 - 3)))^(Sin(Pi))";
         char [] array = exp.toCharArray();
